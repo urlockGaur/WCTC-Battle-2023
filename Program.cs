@@ -7,6 +7,7 @@ namespace Class05
     {
         static void Main(string[] args)
         {
+
             IArmor armor = new Leather("Elven Leather Armor", 12);
             IWeapon sword = new Sword("Long sword", 5);
 
